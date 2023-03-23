@@ -1,8 +1,6 @@
 ## Oi! Eu sou o Raphael Lucas! :)
 
-
-<a href="https://github.com/Raphaellmp">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellmp&&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellmp&&count_private=true&show_icons=true&theme=dark);
 
 
 <div style="display: inline_block"><br>

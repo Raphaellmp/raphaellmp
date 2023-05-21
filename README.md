@@ -8,7 +8,9 @@
 
 <div style="display: inline_block"><br>
  <img align="center alt="Rapha-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
- <img align="center alt="Rapha-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />            
+ <img align="center alt="Rapha-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <i class="devicon-github-original-wordmark"></i>
 </div>
 
                                                                                                                                      
